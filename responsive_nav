@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width">
+<title>Viyet.com</title>
+<style type="text/css">
+ @media only screen and (max-width: 480px)
+ {
+     table[class="masterWidth"], td[class="masterWidth"] { 
+		 width:100% !important;
+		 border:none !important;
+     }
+     
+    
+    table[class="hide"], tr[class="hide"], td[class="hide"], img[class="hide"], a[class="hide"]{
+        display:none !important;
+    }
+	 img [class="hero"] {
+		 height:auto!important;
+		 width:100% !important;
+		 max-width:600px!important;		 
+	 }
+	 a[class="android"], span[class="android"] {
+		 color: #000000 !important;
+		 text-decoration:none !important;
+	 }
+	*[class].show {
+		display:block !important;
+	}
+	*[class].nav {
+		font-size: 21px !important;
+		font-weight:bold !important;
+		color:#000000 !important;
+		text-align:center !important;
+	}
+*[class].nav-cells {
+		height:56px !important;
+		width:100% !important;
+		clear:both !important;
+		display:block !important;
+		border-top: 1px solid #000000 !important;
+		vertical-align:middle !important;
+		padding-right: 0 !important;
+		padding-top:20px !important;
+	}
+	*[class].logo {
+		background-image:url(http://email.viyet.com/2015/nav/logo_mobile.gif) !important;
+		background:url(http://email.viyet.com/2015/nav/logo_mobile.gif) !important;
+		background-position:center !important;
+		background-repeat: no-repeat !important;
+		width: 100% !important;
+		height:auto !important;
+		text-align:center !important;
+	}
+*[class].logo-width {
+		max-width: 173px !important;
+	}
+}
+ 
+</style>
+</head>
+
+<body>
+<table class="masterWidth" width="100%" align="center" cellpadding="0" cellspacing="0" border="0" style="background-color:#FFFFFF; max-width:600px;">
+<tr>
+	<td>
+    <table width="600" align="center" cellpadding="0" cellspacing="0" border="0" style="background-color:#FFFFFF;">
+    <tr>
+        <td style="font-family:Arial, Helvetica, sans-serif; color:#ffffff; font-size:10px;">Browse our latest furniture finds</td>
+    </tr>
+    </table>    
+    <!-- Nav/Logo -->
+    <table class="logo" width="600" align="center" cellpadding="0" cellspacing="0" border="0" style="background-color:#ffffff;">
+    <tr>
+        <td class="logo-width" align="center" width="180" height="80"><a href="https://viyet.com/" target="_blank"><img class="hide" src="http://email.viyet.com/2015/nav/new_logo1.gif" width="160" height="80" border="0" alt="Viyet" style="display:block;"></a></td>
+        <td class="hide" width="440" height="80" align="left">
+        <table width="440" cellpadding="0" cellspacing="0" border="0" align="left">
+        <tr>
+            <td width="380" align="left" valign="middle" style=" padding-left:60px; font-family:Helvetica, Arial, sans-serif; font-size:13px; color:#000033; font-weight:bold;">
+            <a href="https://viyet.com/new-arrivals.html" target="_blank" style="color:#FFFFFF; text-decoration:none;">
+            <span style="color:#000033; text-decoration:none;">NEW</span></a>
+            <img src="http://email.viyet.com/2015/nav/spacer.gif" width="38" height="1" border="0">
+            <a href="https://viyet.com/shop.html" target="_blank" style="color:#FFFFFF; text-decoration:none;">
+            <span style="color:#000033; text-decoration:none;">SHOP</span></a>
+            <img src="http://email.viyet.com/2015/nav/spacer.gif" width="38" height="1" border="0">
+            <a href="https://viyet.com/final-sale.html" target="_blank" style="color:#000033; text-decoration:none;">
+            <span style="color:#000033; text-decoration:none;">LAST CALL</span></a>
+            <img src="http://email.viyet.com/2015/nav/spacer.gif" width="38" height="1" border="0">
+            <a href="https://viyet.com/sell#/quote" target="_blank" style="color:#000033; text-decoration:none;">
+            <span style="color:#000033; text-decoration:none;">SELL</span></a></td>
+      </tr>
+       </table></td>
+    </tr><tr>
+    </tr>
+    </table>
+    
+    <!--  Line -->
+    <table width="600" align="center" cellpadding="0" cellspacing="0" border="0" style="background-color:#ffffff; border-top:1px solid #d0d0d0; border-bottom:0px solid #000000;">
+    <tr>
+    </tr></table>
+    
+    <!-- Hero-->
+    <table width="600" align="center" cellpadding="0" cellspacing="0" border="0" style="background-color:#ffffff;">
+    <tr>
+       <td width="600" valign="top"><a href="https://viyet.com/featured/make-an-offer.html" target="_blank"><img src="http://email.viyet.com/2015/032015/1.jpg" width="600" height="303" border="0" style="display:block;" alt="Make an Offer on these divine spring trends"></a></td>
+           </tr>
+           <tr>
+          <td width="600" valign="top"><a href="https://viyet.com/featured/make-an-offer/black-furniture.html" target="_blank"><img src="http://email.viyet.com/2015/032015/2.jpg" width="600" height="1069" border="0" style="display:block;" alt="Dramatic Black"></a></td>
+           </tr>
+           <tr>
+            <td width="875" valign="top"><a href="https://viyet.com/featured/make-an-offer/metal-metal-details.html" target="_blank"><img src="http://email.viyet.com/2015/032015/3.jpg" width="600" height="833" border="0" style="display:block;" alt="Metalic Accents"></a></td>
+           </tr>
+           <tr>
+           
+            <td width="600" valign="top"><a href="https://viyet.com/featured/make-an-offer/cheerful-prints-patterns.html" target="_blank"><img src="http://email.viyet.com/2015/032015/4.jpg" width="600" height="1047" border="0" style="display:block;" alt="Cheerful Prints and Patterns"></a></td>
+           </tr>
+           <tr>
+            <td width="600" valign="top"><a href="https://viyet.com/featured/make-an-offer/wood-furniture.html" target="_blank"><img src="http://email.viyet.com/2015/032015/5.jpg" width="600" height="664" border="0" style="display:block;" alt="Alluring Wood"></a></td>
+           </tr>
+           <tr>
+                <td width="600" valign="top"><a href="https://viyet.com/storage/bar-multipurpose.html" target="_blank"><img src="http://email.viyet.com/2015/032015/6.jpg" width="600" height="716" border="0" style="display:block;" alt="A Well-Styled Bar"></a></td>
+           </tr>
+           <tr>
+            <td width="600" valign="top"><a href="https://viyet.com/final-sale.html" target="_blank"><img src="http://email.viyet.com/2015/032015/lastcall.gif" width="600" height="268" border="0" style="display:block;" alt="Last Call"></a></td>
+           </tr>
+           <tr>
+    </tr>
+    </table>
+    
+    <!-- More ways to shop -->
+    <table width="600" align="center" cellpadding="0" cellspacing="0" border="0" style="background-color:#ffffff;">
+      <tr>
+          <td width="300" valign="top"><a href="https://viyet.com/office.html"><img src="http://email.viyet.com/2015/032015/7.jpg" width="300" height="223" border="0" style="display:block" alt="Shop Office"></a></td>
+          <td width="300" valign="top"><a href="https://viyet.com/under-1500.html"><img src="http://email.viyet.com/2015/032015/8.jpg" width="300" height="223" border="0" style="display:block" alt="Shop Under $1,500"></a></td>
+      </tr>
+      <tr>
+        </tr>
+        </table>
+
+        
+  <!--  Hidden Nav -->
+    <table class="show" width="600" align="center" cellpadding="0" cellspacing="0" border="0" style="background-color:#ffffff; display:none;">
+    <tr>
+        <td width="600" align="center" valign="middle">
+        <table width="600" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+        		<td class="nav nav-cells" valign="middle" style=" padding-right:10px; font-family:Helvetica, Arial, sans-serif; font-size:1px; color:#ffffff; font-weight:bold;">
+            <a class="nav" href="https://viyet.com/new-arrivals.html" target="_blank" style="color:#ffffff; text-decoration:none;">
+            <span class="nav" style="color:#ffffff; text-decoration:none;">NEW</span></a></td>
+        		<td class="nav nav-cells" valign="middle" style=" padding-right:10px; font-family:Helvetica, Arial, sans-serif; font-size:1px; color:#ffffff; font-weight:bold;">
+            <a class="nav" href="https://viyet.com/shop.html" target="_blank" style="color:#ffffff; text-decoration:none;">
+            <span class="nav" style="color:#ffffff; text-decoration:none;">SHOP</span></a></td>
+        		<td class="nav nav-cells" valign="middle" style=" padding-right:10px; font-family:Helvetica, Arial, sans-serif; font-size:1px; color:#ffffff; font-weight:bold;">
+            <a class="nav" href="https://viyet.com/final-sale.html" target="_blank" style="color:#ffffff; text-decoration:none;">
+            <span class="nav" style="color:#ffffff; text-decoration:none;">LAST CALL</span></a></td>
+        		<td class="nav nav-cells" valign="middle" style=" font-family:Helvetica, Arial, sans-serif; font-size:1px; color:#ffffff; font-weight:bold;">
+            <a class="nav" href="https://viyet.com/sell#/quote" target="_blank" style="color:#ffffff; text-decoration:none;">
+            <span class="nav" style="color:#ffffff; text-decoration:none;">SELL</span></a></td>
+        </tr>
+        </table></td>
+    </tr>
+    </table>
+  <!--  CTA/Copyright -->
+    <table width="600" align="center" cellpadding="0" cellspacing="0" border="0" style="background-color:#ffffff; border-top:0px solid #000000; border-bottom:1px solid #000000;">
+    <tr>
+        <td width="600" height="50" align="center" valign="middle" style=" padding-top:10px; padding-bottom:10px; font-family: Helvetica, Arial, sans-serif; font-size:14px; font-weight:bold; color:#000000; text-align:center">TOO MANY EMAILS? <a href="*|UPDATE_PROFILE|*" target="_blank" style="color:#606060"><span style="color:#606060; font-family:Helvetica, Arial, sans-serif; font-style:normal; font-size:11px;">change preferences</span></a></td>
+    </tr>
+    </table>
+  <!-- Footer -->
+  <table width="600" class="masterWidth" align="center" cellpadding="0" cellspacing="0" border="0" style="background-color:#ffffff;">
+  <tr>
+      <td align="center" height="95" style="background-color:#ffffff; padding-left:28px; padding-right:28px;">
+      <!-- Nav/Logo -->
+      <table align="center" cellpadding="0" cellspacing="0" border="0" style="background-color:#ffffff;">
+      <tr>
+          <td width="34" valign="middle" align="left"><a href="https://www.facebook.com/viyetNY" target="_blank"><img src="http://email.viyet.com/2015/nav/facebook.gif" width="14" height="31" border="0" alt="facebook"></a></td>
+          <td width="63" valign="middle" align="left"><a href="https://twitter.com/viyetNY" target="_blank"><img src="http://email.viyet.com/2015/nav/twitter.gif" width="46" height="32" border="0" alt="twitter"></a></td>
+          <td width="44" valign="middle" align="left"><a href="http://www.pinterest.com/viyet/" target="_blank"><img src="http://email.viyet.com/2015/nav/pinterest.gif" width="24" height="32" border="0" alt="pinterest"></a></td>
+          
+          <td width="47" valign="middle" align="left"><a href="https://www.houzz.com/pro/viyetny" target="_blank"><img src="http://email.viyet.com/2015/nav/houzz.gif" width="23" height="39" border="0" alt="houzz"></a></td>
+              <td width="31" valign="middle" align="left"><a href="http://instagram.com/viyetny" target="_blank"><img src="http://email.viyet.com/2015/nav/instagram.gif" width="31" height="31" border="0" alt="instagram"></a></td>
+      </tr>
+      </table></td>    
+  </tr>
+  </table></td>
+</tr>
+</table>
+    <table width="600" align="center" cellpadding="0" cellspacing="0" border="0" style="background-color:#ffffff;">
+    <tr>
+        <td width="600" align="center" valign="bottom" style=" padding-bottom:10px; font-family: Arial, Helvetica, sans-serif; font-size:11px; color:#666666; text-align:center"><b>THE DESIGNER MARKETPLACE FOR NEARLY NEW FURNITURE FINDS &amp; ACCESSORIES</b></td>
+    </tr>
+    <tr>
+        <td width="600" valign="top" style=" padding-bottom:20px; font-family: Arial, Helvetica, sans-serif; font-size:10px; color:#666666; text-align:center">
+        &copy; 2015 VIYET. ALL RIGHTS RESERVED</td>
+    </tr>    
+    </table>
+                            <table border="0" cellpadding="0" cellspacing="0" align="center" id="canspamBar">
+                                <tr>
+                                    <td align="center" valign="top" style="color:#606060; font-family:Helvetica, Arial, sans-serif; font-size:11px; padding-right:20px; padding-bottom:5px; padding-left:20px; text-align:center; padding-top:10px;">
+                                    <a href="https://viyet.com/contact" target="_blank" style="color:#606060; text-decoration:none;"><span style="color:#606060; text-decoration:none;">Contact Viyet</span></a><br><br>
+                                        This email was sent to <a href="*|EMAIL|*" target="_blank" style="color:#404040 !important;">*|EMAIL|*</a>
+                                        <br><br>
+                                        <a href="*|ABOUT_LIST|*" target="_blank" style="color:#404040 !important;"><em>why did I get this?</em></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="*|UNSUB|*" style="color:#404040 !important;">unsubscribe from this list</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="*|UPDATE_PROFILE|*" style="color:#404040 !important;">update subscription preferences</a>
+                                        <br><br>
+                                        *|LIST:ADDRESSLINE|*
+                                        
+                                        
+                                    </td>
+                                </tr>
+                            </table>
+                           
+                            
+</body>
+</html>
